@@ -1,5 +1,4 @@
-# floodshape_Kakhovka2023
-**Shapefiles with the outline of maximum water spread resulting from the catastrophic release of the Kakhovka Reservoir after the destruction of the Kakhovka Hydroelectric Power Plant by Russian occupying forces.**
+# Shapefiles with the outline of maximum water spread resulting from the catastrophic release of the Kakhovka Reservoir after the destruction of the Kakhovka Hydroelectric Power Plant by Russian occupying forces
 
 The map is based on remote sensing data from Sentinel-2A (processing level L2A) dated June 8, 2023, and Landsat-9 (Collection 2 Level-2) dated June 9, 2023.
 
@@ -29,7 +28,7 @@ The web version of the maximum water spread map is available at: https://yumoska
 ***This scientific and technical product was created by the scientists of the Black Sea Biosphere Reserve of the National Academy of Sciences of Ukraine during the implementation of research on the topic "Monitoring the condition of natural complexes of the Black Sea Biosphere Reserve (‘Chronicle of Nature’)" (state registration number 0121U109174).***
 
 
-**Карта максимального розливу води внаслідок катастрофічного спуску Каховського водосховища після підриву Каховської ГЕС російськими окупаційними військами.**
+# Карта максимального розливу води внаслідок катастрофічного спуску Каховського водосховища після підриву Каховської ГЕС російськими окупаційними військами
 
 Карта укладена на основі даних дистанційного зондування Sentinel-2A (рівня обробки L2A) за 8 червня 2023 р. та Landsat-9 (Collection 2 Level-2) за 9 червня 2023 р.
 
