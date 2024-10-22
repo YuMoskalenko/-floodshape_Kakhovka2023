@@ -38,7 +38,7 @@ floodMax_WGS84.geojson.zip — contains a GeoJSON file in WGS84 coordinates (EPS
 
 # Web version of the map
 
-The web version of the maximum water spread map is available at: https://yumoskalenko.github.io/floodmap_Kakhovka2023/
+The web version of the maximum water spread map is available at:<br>https://yumoskalenko.github.io/floodmap_Kakhovka2023/
 
 Embed code for the map on a webpage:
 
