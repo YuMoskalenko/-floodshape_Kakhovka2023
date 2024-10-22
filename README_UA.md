@@ -40,7 +40,7 @@ floodMax_WGS84.geojson.zip — містить файл у форматі GeoJSON
 
 # Веб-версія карти
 
-Веб-версія карти максимального розливу води доступна за адресою: https://yumoskalenko.github.io/floodmap_Kakhovka2023/
+Веб-версія карти максимального розливу води доступна за адресою:<br>https://yumoskalenko.github.io/floodmap_Kakhovka2023/
 
 Код для вбудовування карти у веб-сторінку:
 
