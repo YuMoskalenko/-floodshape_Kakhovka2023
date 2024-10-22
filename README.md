@@ -41,6 +41,9 @@ The web version of the maximum water spread map is available at: https://yumoska
 
 ***This scientific and technical product was created by the scientists of the Black Sea Biosphere Reserve of the National Academy of Sciences of Ukraine during the implementation of research on the topic "Monitoring the condition of natural complexes of the Black Sea Biosphere Reserve (‘Chronicle of Nature’)" (state registration number 0121U109174).***
 
+## License agreement
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 # Карта максимального розливу води внаслідок катастрофічного спуску Каховського водосховища після підриву Каховської ГЕС російськими окупаційними військами
 
@@ -85,3 +88,7 @@ floodMax_WGS84.geojson.zip — містить файл у форматі GeoJSON
 Веб-версія карти максимального розливу води доступна за адресою: https://yumoskalenko.github.io/floodmap_Kakhovka2023/
 
 ***Дана науково-технічна продукція створена фахівцями Чорноморського біосферного заповідника НАН України в ході виконання досліджень за темою  НДР „Моніторинг стану природних комплексів Чорноморського біосферного заповідника („Літопис природи“)“ (держ. реєстраційний № 0121U109174).***
+
+## Ліцензія
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
