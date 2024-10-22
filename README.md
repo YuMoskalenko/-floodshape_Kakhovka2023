@@ -31,10 +31,15 @@ For visual interpretation of Sentinel-2A remote sensing data, we used combinatio
 
 During visual interpretation, the above-mentioned remote sensing data were compared with satellite images acquired before the destruction of the Kakhovka Hydroelectric Power Plant. In particular, Landsat-9 remote sensing data were compared with Landsat-8 data from June 1, 2023, and Sentinel-2A data were compared with Sentinel-2B data from June 3, 2023.
 
-Repository files
-• floodMax_UTM36N.zip — contains the shapefile in UTM36N projection (EPSG:32636);
-• floodMax_WGS84.zip — contains the shapefile in geographic coordinates in WGS84 (EPSG:4326);
-• floodMax_WGS84.geojson.zip — contains a GeoJSON file in WGS84 coordinates (EPSG:4326).
+Repository files:
+
+floodMax_UTM36N.zip — contains the shapefile in UTM36N projection (EPSG:32636);
+
+floodMax_WGS84.zip — contains the shapefile in geographic coordinates in WGS84 (EPSG:4326);
+
+floodMax_WGS84.geojson.zip — contains a GeoJSON file in WGS84 coordinates (EPSG:4326).
+
+# Web version of the map
 
 The web version of the maximum water spread map is available at: https://yumoskalenko.github.io/floodmap_Kakhovka2023/
 
