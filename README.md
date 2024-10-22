@@ -4,7 +4,7 @@
 
 ### Moskalenko Yu. O.<sup>1</sup> strix@strix.ks.ua
 
-### Korolesova D. D.<sup>1</sup>
+### Pliushch S. O.<sup>1</sup>
 <br>
 
 *<sup>1</sup> Black Sea Biosphere Reserve of National Academy of Sciences of Ukraine*
