@@ -14,16 +14,23 @@
 <br>
 
 
-The map is based on remote sensing data from Sentinel-2A (processing level L2A) dated June 8, 2023, and Landsat-9 (Collection 2 Level-2) dated June 9, 2023.
+The map is based on remote sensing data from Sentinel-2A (Processing Level L2A), dated June 8, June 13, and June 18, 2023, and Landsat-9 (Collection 2 Level-1), dated June 9, 2023.
 
 The following Sentinel-2 remote sensing data granules were used:<br>S2A_MSIL2A_20230608T084601_N0509_R107_T36TUS_20230608T132103.SAFE
 S2A_MSIL2A_20230608T084601_N0509_R107_T36TVS_20230608T132103.SAFE<br>
 S2A_MSIL2A_20230608T084601_N0509_R107_T36TWS_20230608T132103.SAFE<br>
-S2A_MSIL2A_20230608T084601_N0509_R107_T36TVT_20230608T132103.SAFE
+S2A_MSIL2A_20230608T084601_N0509_R107_T36TVT_20230608T132103.SAFE<br>
+S2B_MSIL2A_20230613T084609_N0509_R107_T36TUS_20230613T102806.SAFE<br>
+S2B_MSIL2A_20230613T084609_N0509_R107_T36TVS_20230613T102806.SAFE<br>
+S2B_MSIL2A_20230613T084609_N0509_R107_T36TWS_20230613T102806.SAFE<br>
+S2A_MSIL2A_20230618T084601_N0509_R107_T36TUS_20230618T151602.SAFE<br>
+S2A_MSIL2A_20230618T084601_N0509_R107_T36TVS_20230618T151602.SAFE<br>
+S2A_MSIL2A_20230618T084601_N0509_R107_T36TWS_20230618T151602.SAFE<br>
+
 
 The following remote sensing data scenes from Landsat-9 were used:<br>
-LC09_L2SP_179028_20230609_20230611_02_T1<br>
-LC09_L2SP_179027_20230609_20230611_02_T1
+LC09_L1TP_179028_20230609_20230610_02_T1<br>
+LC09_L1TP_179027_20230609_20230610_02_T1
 
 The contour of the maximum water spread was constructed using a method of manual visual interpretation of remote sensing data, relying on knowledge of the local terrain. We consciously chose not to use automated methods with water indices such as the Normalized Difference Water Index (NDWI) or the Modified Normalized Difference Water Index (MNDWI), as these do not effectively distinguish water surfaces in areas covered with forest or dense reed thickets. Similarly, we did not use the SRTM digital elevation model due to significant artifacts in the study area, where the model shows the height of the forest canopy instead of the ground surface in forested areas.
 
